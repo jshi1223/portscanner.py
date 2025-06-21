@@ -22,4 +22,4 @@ Perfect for learning networking concepts, ethical hacking basics, and practicing
 3. Run using:
 
 ```bash
-python port_scanner.py
+python portscanner.py
